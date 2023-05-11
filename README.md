@@ -1,4 +1,4 @@
-#Image Classification using Convolutional Neural Networks (CNN)
+<h1>Image Classification using Convolutional Neural Networks (CNN)</h1>
 This project aims to implement image classification using Convolutional Neural Networks (CNN) in Python with the help of TensorFlow. The project utilizes the CIFAR10 dataset, which is a popular benchmark dataset in the field of image classification.
 
 ##Tools and Technologies used:
