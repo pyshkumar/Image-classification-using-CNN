@@ -31,7 +31,7 @@
 <p>Once the model is trained, the next step is to evaluate its performance using the test dataset. We use the evaluation metric defined during model compilation to measure the accuracy of the model. We also use other evaluation metrics such as precision, recall, and F1 score to measure the model's performance.</p>
 
 <h2>Conclusion</h2>
-<p>Overall, the project's design includes data preprocessing, model design, compilation, training, evaluation, optimization, and deployment. By following this design, we can build a robust and accurate image classification model using CNN with the CIFAR10 dataset.</p>
+<p>Overall, the project's design includes data preprocessing, model design, compilation, training and evaluation. By following this design, we can build a robust and accurate image classification model using CNN with the CIFAR10 dataset.</p>
 
 <h2>Resources</h2>
 <ul>
