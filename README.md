@@ -21,15 +21,6 @@
 <h3>Model Design</h3>
 <p>In the second step, we design the convolutional neural network (CNN) and Artificial neural Network (ANN) model using the Keras library. The CNN model is designed with multiple layers, including convolutional layers, pooling layers, and dense layers. The number of layers and their parameters are chosen based on the complexity of the dataset and the desired accuracy.</p>
 
-<h3>Model Compilation</h3>
-<p>After designing the CNN model, the next step is to compile it using the Keras library. During the compilation process, the optimizer, loss function, and evaluation metric are defined. The optimizer is used to update the weights of the neural network, the loss function is used to measure the performance of the model, and the evaluation metric is used to evaluate the accuracy of the model.</p>
-
-<h3>Model Training</h3>
-<p>In this step, we train the CNN as well as ANN model using the CIFAR10 dataset. The training process involves passing the data through the model, updating the weights using the optimizer, and measuring the performance using the loss function. The training process continues for several epochs until the model reaches the desired level of accuracy.</p>
-
-<h3>Model Evaluation</h3>
-<p>Once the model is trained, the next step is to evaluate its performance using the test dataset. We use the evaluation metric defined during model compilation to measure the accuracy of the model. We also use other evaluation metrics such as precision, recall, and F1 score to measure the model
-
 <h2>Model Compilation</h2>
 <p>After designing the CNN model, the next step is to compile it using the Keras library. During the compilation process, the optimizer, loss function, and evaluation metric are defined. The optimizer is used to update the weights of the neural network, the loss function is used to measure the performance of the model, and the evaluation metric is used to evaluate the accuracy of the model.</p>
 
